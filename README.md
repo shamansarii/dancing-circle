@@ -1,7 +1,7 @@
 DANCING CIRCLE
 --------------
 
-You can see website here: https://shamababul123.github.io/dancing-circle/
+You can see website here: https://shamansarii.github.io/dancing-circle/.
 
 ## WORKSHOP
 
