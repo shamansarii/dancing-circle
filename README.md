@@ -2,7 +2,7 @@ DANCING CIRCLE
 --------------
 You can see website here: https://shamansarii.github.io/dancing-circle/.
 
-### WORKSHOP
+### APP FEATURES
 
 1. The app is a soft dancing circle. circle is dancing full screen and circle color,size and border-color change
 
